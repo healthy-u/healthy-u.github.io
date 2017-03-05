@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Link
+title: Links
 permalink: /links/
 avatar: true
 navigation: true
