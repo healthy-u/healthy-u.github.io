@@ -2,7 +2,7 @@
 layout: default
 avatar: true
 permalink: /
-title: Home _pages
+title: Home
 ---
-## Home in _pages
-You can use this page to showcase your work, portfolio/project, your Latest post or another stuff that you love to share to the world.
+## Home
+This is the homepage for HealthyU, a campus-wide running challenge! HealthyU is an upcoming app for the Android platform.
