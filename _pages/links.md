@@ -7,6 +7,9 @@ navigation: true
 ---
 This is where all of the documents, downloads, and links can be found for HealthyU!
 
+Demo video:  
+https://youtu.be/NPnqTWCu8T4
+
 You can find all of the documents in [this Google Drive folder](https://drive.google.com/drive/folders/0B_SCjLE4EZV2UVJrWkVyQ2J3ekk?usp=sharing)
 
 You can find the Git repository for HealthyU here:
